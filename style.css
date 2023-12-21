@@ -1,0 +1,36 @@
+body
+{
+  color: white;
+  background: rgb(229, 65, 65);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emoticon_name
+{
+  color: black;
+}
+.emoticon_name
+{
+  font-size: 40px;
+}
+.emoticon
+{
+  font-size:48px;
+}
+.heading{
+  
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+  background-color: aqua;
+}
